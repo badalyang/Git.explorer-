@@ -1,0 +1,35 @@
+Enter the path to the Git repository: /path/to/your/repo
+
+Git Explorer Options:
+1. List Branches
+2. List Recent Commits
+3. List Files in the Repo
+4. Exit
+Choose an option (1-4): 1
+
+
+
+1. List Branches
+2. List Recent Commits
+3. List Files in the Repo
+4. Exit
+Choose an option (1-4): 2
+Enter the number of recent commits to show: 3
+
+Recent 3 commits:
+d1a9b29 - John Doe - Fix bug in feature X
+d77e8c2 - Jane Smith - Add new feature Y
+f21b3ac - Alice Johnson - Initial commit
+
+Git Explorer Options:
+1. List Branches
+2. List Recent Commits
+3. List Files in the Repo
+4. Exit
+Choose an option (1-4): 3
+
+Files in the repository:
+file1.txt
+file2.py
+folder/file3.cpp
+README.md
